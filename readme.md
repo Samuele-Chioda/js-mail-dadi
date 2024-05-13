@@ -14,9 +14,11 @@ stampa un messaggio appropriato sull’esito del controllo.
 Saltare a piè dispari [Bonus]
 Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array
 
+GIOCO DEI DADI
+-Genero i numeri casuali da 1 a 6.
 
-Genero i numeri casuali da 1 a 6.
+-Confronto i punteggi per stabilire quale dei due è più alto.
 
-Confronto i punteggi per stabilire quale dei due è più alto.
+-Stampo in console il numero più alto.
 
-Stampo in console il numero più alto.
+MAIL
