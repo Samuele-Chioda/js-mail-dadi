@@ -14,6 +14,7 @@ stampa un messaggio appropriato sull’esito del controllo.
 Saltare a piè dispari [Bonus]
 Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array
 
+
 GIOCO DEI DADI
 -Genero i numeri casuali da 1 a 6.
 
@@ -21,4 +22,12 @@ GIOCO DEI DADI
 
 -Stampo in console il numero più alto.
 
+
 MAIL
+-chiedo la mail all'utente con un prompt
+
+-creo una lista invitati con un array
+
+-controllo che la mail dell'utente sia in lista
+
+-stampo risultato positivo o negativo
