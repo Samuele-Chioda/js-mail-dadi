@@ -7,7 +7,7 @@ for (let x = 0; x < 6; x++) {
     if (!isNaN(numeroInseritoDaUtente) && numeroInseritoDaUtente % 2 === 0) {
         numeriArrey.push(numeroInseritoDaUtente);
     }    else{
-        console.log("numero non valido!");
+        console.log("numero dispari!");
     }
 }
 console.log(numeriArrey);
